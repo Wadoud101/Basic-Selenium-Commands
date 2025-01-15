@@ -1,11 +1,9 @@
-package manageMethods;
+package a03_ManageMethods;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.time.Duration;
 
 public class ManageMethods {
     public static void main(String[] args) {

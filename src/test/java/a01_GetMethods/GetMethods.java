@@ -1,4 +1,4 @@
-package getMethods;
+package a01_GetMethods;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

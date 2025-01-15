@@ -1,4 +1,4 @@
-package navigateMethods;
+package a02_NavigateMethods;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
