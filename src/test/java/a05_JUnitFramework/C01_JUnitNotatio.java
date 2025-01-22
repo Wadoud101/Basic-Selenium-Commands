@@ -1,8 +1,8 @@
 package a05_JUnitFramework;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+
+import org.junit.*;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -24,18 +24,21 @@ public class C01_JUnitNotatio {
     @Test
     public void test01(){
         driver.get("https://bestbuy.com");
+        System.out.println("*******************");
         System.out.println(driver.getTitle());
     }
 
     @Test
     public void test2(){
         driver.get("https://google.com");
+        System.out.println("*******************");
         System.out.println(driver.getTitle());
     }
 
     @Test
     public void test3(){
         driver.get("https://facebook.com");
+        System.out.println("*******************");
         System.out.println(driver.getTitle());
     }
 

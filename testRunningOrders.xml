@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "SUITE NAME">
+    <test name = "TEST NAME 1">
+        <packages>
+            <package name = "a07_TestNG"></package>
+        </packages>
+    </test>
+    <test name = "TEST NAME 2">
+        <classes>
+            <class name = "a07_TestNG.TestNG"></class>
+        </classes>
+
+    </test>
+</suite>
